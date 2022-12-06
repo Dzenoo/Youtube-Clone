@@ -1,0 +1,23 @@
+.item {
+  .item_img {
+    img {
+      width: 100%;
+      cursor: pointer;
+    }
+  }
+
+  .item_desc {
+    padding: 1.2em;
+
+    h1 {
+      color: #fff;
+      font-size: 30px;
+      padding-bottom: 20px;
+    }
+
+    span {
+      color: #fff;
+      font-size: 26px;
+    }
+  }
+}
